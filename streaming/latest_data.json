@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-06-04 00:29:48.238902",
+    "Machine_Failure": 1,
+    "Failure_Probability": 0.5369,
+    "Anomaly_Result": 1,
+    "Machine_Status": "WARNING",
+    "sensor_data": {
+        "Type": 0,
+        "Air_temperature_K": 298.24,
+        "Process_temperature_K": 308.36,
+        "Rotational_speed_rpm": 2436.35,
+        "Torque_Nm": 38.01,
+        "Tool_wear_min": 198.39
+    }
+}
