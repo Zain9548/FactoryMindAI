@@ -1,31 +1,31 @@
 {
-    "timestamp": "2026-06-04 00:29:48.243010",
+    "timestamp": "2026-06-04 00:37:02.055770",
     "sensor_data": {
-        "Type": 0,
-        "Air_temperature_K": 298.24,
-        "Process_temperature_K": 308.36,
-        "Rotational_speed_rpm": 2436.35,
-        "Torque_Nm": 38.01,
-        "Tool_wear_min": 198.39,
-        "temp_diff": 10.120000000000005,
-        "wear_ratio": 0.08142918710365916,
-        "torque_stress": 92605.6635,
-        "thermal_stress": 384.6612000000002,
-        "load_index": 0.015601206723171957
+        "Type": 2,
+        "Air_temperature_K": 309.84,
+        "Process_temperature_K": 326.01,
+        "Rotational_speed_rpm": 2769.05,
+        "Torque_Nm": 21.82,
+        "Tool_wear_min": 97.57,
+        "temp_diff": 16.170000000000016,
+        "wear_ratio": 0.03523591123309438,
+        "torque_stress": 60420.671,
+        "thermal_stress": 352.82940000000036,
+        "load_index": 0.007879958830645888
     },
     "prediction": {
-        "timestamp": "2026-06-04 00:29:48.238902",
-        "Machine_Failure": 1,
-        "Failure_Probability": 0.5369,
-        "Anomaly_Result": 1,
-        "Machine_Status": "WARNING",
+        "timestamp": "2026-06-04 00:37:02.050759",
+        "Machine_Failure": 0,
+        "Failure_Probability": 0.0016,
+        "Anomaly_Result": -1,
+        "Machine_Status": "HEALTHY",
         "sensor_data": {
-            "Type": 0,
-            "Air_temperature_K": 298.24,
-            "Process_temperature_K": 308.36,
-            "Rotational_speed_rpm": 2436.35,
-            "Torque_Nm": 38.01,
-            "Tool_wear_min": 198.39
+            "Type": 2,
+            "Air_temperature_K": 309.84,
+            "Process_temperature_K": 326.01,
+            "Rotational_speed_rpm": 2769.05,
+            "Torque_Nm": 21.82,
+            "Tool_wear_min": 97.57
         }
     }
 }

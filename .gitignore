@@ -12,3 +12,7 @@ models/*.pkl
 
 .idea/
 .vscode/
+Backend/models/
+Backend/__pycache__/
+Backend/venv/
+rag/__pycache__/
