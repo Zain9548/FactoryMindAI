@@ -1,15 +1,15 @@
 {
-    "timestamp": "2026-06-04 01:01:05.631674",
+    "timestamp": "2026-06-04 01:17:35.099947",
     "Machine_Failure": 0,
-    "Failure_Probability": 0.1823,
-    "Anomaly_Result": -1,
+    "Failure_Probability": 0.0493,
+    "Anomaly_Result": 1,
     "Machine_Status": "HEALTHY",
     "sensor_data": {
         "Type": 1,
-        "Air_temperature_K": 295.83,
-        "Process_temperature_K": 321.45,
-        "Rotational_speed_rpm": 2700.43,
-        "Torque_Nm": 45.18,
-        "Tool_wear_min": 156.78
+        "Air_temperature_K": 311.31,
+        "Process_temperature_K": 324.79,
+        "Rotational_speed_rpm": 1899.46,
+        "Torque_Nm": 45.49,
+        "Tool_wear_min": 82.9
     }
 }
