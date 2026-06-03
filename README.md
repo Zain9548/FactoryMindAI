@@ -1,6 +1,11 @@
-<img width="1920" height="1080" alt="Screenshot 2026-06-04 011449" src="https://github.com/user-attachments/assets/2da76f4b-7be4-4e1f-9435-00856a0bc684" />#
-https://github.com/Zain9548/FactoryMindAI/blob/7941df8536951aa7f9a554a2774f7d5382ab2763/Demo%20Projects/Screenshot%202026-06-04%20011522.png
-<img 
+# Projects Screenshot
+
+![Demo Projects](Demo%20Projects/Screenshot%202026-06-04%20011449.png)
+![Demo Projects](Demo%20Projects/Screenshot%202026-06-04%20011522.png)
+![Demo Projects](Demo%20Projects/Screenshot%202026-06-04%20011553.png)
+![Demo Projects](Demo%20Projects/Screenshot%202026-06-04%20011606.png)
+![Demo Projects](Demo%20Projects/Screenshot%202026-06-04%20011618.png)
+![Demo Projects](Demo%20Projects/Screenshot%202026-06-04%20011629.png)
 🏭
 FactoryMind AI
 
