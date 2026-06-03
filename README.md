@@ -1,4 +1,4 @@
-# 🏭 FactoryMind AI
+<img width="1920" height="1080" alt="Screenshot 2026-06-04 011449" src="https://github.com/user-attachments/assets/2da76f4b-7be4-4e1f-9435-00856a0bc684" /># 🏭 FactoryMind AI
 
 ## Industry 4.0 Predictive Maintenance Platform
 
@@ -365,6 +365,8 @@ FactoryMind AI successfully combines:
 into a single Industry 4.0 platform.
 
 ---
+
+# The frontend was successfully deployed on Streamlit Cloud. However, the backend APIs were running locally because I had exhausted the free deployment limits on Render and Railway. Due to this, the cloud-hosted frontend could not connect to the backend APIs. On my local machine, the complete system works end-to-end, including FastAPI backend, machine learning models, and the RAG-based AI copilot.
 
 # 🔮 Future Improvements
 
